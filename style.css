@@ -1,0 +1,235 @@
+/*----------Všeobecne----------*/
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.img-fluid{
+  width: 100%;
+}
+
+/*----------Jumbo Top----------*/
+.nazov{
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 500;
+}
+
+.navtop2{
+  color: black;
+}
+
+.navtop2:hover{
+  color: red;
+  text-decoration: none;
+}
+
+
+.top1{
+  background-color: white;
+  padding-left: 25%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-top: 2px solid #B9282C;
+}
+
+.top2{
+  background-color: white;
+  padding-left: 15%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-top: 2px solid #B9282C;
+}
+/*----------Navbar----------*/
+.bg{
+  border-top: 1px solid #E1E0DF;
+  background-color: #F1F1F1;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.bg1{
+  background-color: #F1F1F1;
+  margin: 0px;
+}
+
+.navhover{
+  color: black;
+}
+
+.navhover:hover{
+  color: white;
+  background-color: #7A1B1D;
+}
+
+.nazov1{
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 500;
+  font-weight: bold;
+}
+
+.nazov2{
+  border-bottom: 1px solid #d6d5d5;
+  padding-bottom: 10px;
+  padding-top: 10%;
+}
+
+.nazov3{
+  border-bottom: 1px solid #d6d5d5;
+  padding-bottom: 10px;
+  padding-top: 33%;
+}
+
+.nazov4{
+  border-bottom: 1px solid #d6d5d5;
+  padding-bottom: 10px;
+  padding-top: 30px;
+
+}
+
+.kalendar{
+  height: 54px;
+  width: 50px;
+}
+
+.red{
+  color: red;
+}
+
+.posun1{
+  padding-bottom: 25px;
+}
+
+.posun2{
+  padding-top: 30px;
+}
+
+.posun3{
+  padding-bottom: 55px;
+}
+
+.linkli{
+  border-bottom: 1px solid #d6d5d5;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.linkul{
+  padding-top: 35px;
+  padding-left: 35px;
+}
+
+.green{
+  color: white;
+  background-color: #68d710;
+  padding: 15px;
+  text-align: left;
+}
+
+.orange{
+  color: white;
+  background-color: #e89210;
+  padding: 15px;
+  text-align: left
+}
+
+.yellow{
+  color: white;
+  background-color: #f0d12a;
+  padding: 15px;
+  text-align: left
+}
+
+.red1{
+  color: white;
+  background-color: #df1414;
+  padding: 15px;
+  text-align: left
+}
+
+
+/*----------Jumbo Bot----------*/
+.jumbotron-fluid-1{
+  background-color: #7A1B1D;
+  color: #E1E0DF;
+  margin-bottom: 0rem;
+  border-radius: 0rem;
+}
+
+.pjumbo-1{
+  color: #E1E0DF;
+}
+
+.pjumbo-1:hover{
+  color: #ff0054;
+}
+.hjumbo-1{
+  border-bottom: 1px solid #B9282C;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.links{
+  padding-top: 45px;
+  font-size: 15px;
+
+}
+
+/*----------Jumbo Bot 2----------*/
+.button {
+  background-color: #7A1B1D;
+  border: none;
+  color: white;
+  padding: 17px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: ;
+  margin: ;
+  cursor: pointer;
+}
+
+.button5 {border-radius: 50%;}
+
+.jumbotron-fluid-2{
+  background-color: #400F10;
+  color: #E1E0DF;
+  margin-bottom: 0rem;
+  border-top: 1px solid white;
+  border-radius: 0rem;
+}
+
+.mail{
+  color: #AC2629;
+}
+
+.progress-bar{
+  background-color: #800909;
+}
+
+.progress{
+  background-color: #d74949;
+}
+
+.posunleft{
+  padding-left: 15px;
+}
+
+
+/*----------Navbar Copyright----------*/
+.navbar2{
+  background-color: #400F10;
+
+}
+
+.created-by{
+  color: #E1E0DF;
+}
+
+.created-by-1{
+  color: #E1E0DF;
+  border-top: 1px solid #B9282C;
+  padding-left: 150px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
